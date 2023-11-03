@@ -19,10 +19,6 @@
        alt="snake" /></a>
 </div>
 
-## My projects
-
-<p> In development... </p>
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -31,3 +27,8 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aikarubi&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+
+## My projects
+
+<p> In development... </p>
