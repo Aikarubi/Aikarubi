@@ -3,6 +3,8 @@
 </div>
 <img src="akr.png">
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Aikarubi&color=blueviolet&style=plastic" alt="aikarubi" /> </p>
+
 ## About me
 
 - 💻 Web Application Developer
@@ -10,6 +12,12 @@
 - 🎭 Happy with the frontend and struggling with the backend
 
 <br>
+
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 ## My projects
 
