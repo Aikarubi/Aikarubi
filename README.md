@@ -26,4 +26,10 @@
 
 ## My projects
 
+| 📚 [Nova-Manga](https://github.com/Aikarubi/Nova-manga) 
+|-------------------------------------------------------
+| <a href="https://github.com/Aikarubi/Nova-manga"><img src="https://raw.githubusercontent.com/Aikarubi/Nova-manga/main/frontend/src/assets/logo/Black White Minimalist Planet Y2K Streetwear Logo (2).png" alt="Nova-Manga Screenshot" width="250px"/></a> 
+| **NovaManga** es una aplicación web para la gestión de mangas, donde <br> inclubúsqueda avanzada y recomendaciones personalizadas. <br><br> **Tecnologías:** Symfony, Angular, Docker, MariaDB 
+<br>
+
 <p> In development... </p>
