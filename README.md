@@ -3,7 +3,7 @@
 </div>
 <img src="banner.png">
 
-## Sobre mí
+## 🙋🏻‍♀️ Sobre mí
 
 Soy una **Desarrolladora de Aplicaciones Web** apasionada por todo el proceso de creación de proyectos, desde la concepción de ideas hasta su implementación completa. Disfruto tanto del **frontend**🎨 como del **backend**🛠️, y me siento realizada al poder trabajar en ambos lados del desarrollo. Me encanta crear interfaces atractivas y funcionales, y, al mismo tiempo, me motiva encontrar soluciones eficaces en el backend. Cada día es una oportunidad para aprender algo nuevo y mejorar mis habilidades como desarrolladora **Full Stack**🚀.
 
