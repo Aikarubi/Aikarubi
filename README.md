@@ -20,7 +20,6 @@ Soy una **Desarrolladora de Aplicaciones Web** apasionada por la creación de pr
 <a href="#"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&color=ef94ca" alt="Angular"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&color=f4a4f0" alt="Docker"/></a>
 <a href="#"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white&color=ffc6f7" alt="MariaDB"/></a>
-
 <a href="#"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&color=d0ece7" alt="Bootstrap"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=ffc6f7" alt="Git"/></a>
 <a href="#"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&color=88e27e" alt="AWS"/></a>
