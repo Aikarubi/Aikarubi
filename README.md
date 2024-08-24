@@ -26,5 +26,5 @@ Soy una **Desarrolladora de Aplicaciones Web** apasionada por todo el proceso de
 
 | Nombre del proyecto | Descripción | Tecnologías |
 | ------------ | ----------- | ------------ |
-| **Nova Manga** | Aplicación web para la gestión de mangas, con búsqueda avanzada y gestión interna. | Symfony, Angular, Docker, MariaDB |
+| [**Nova Manga**](https://github.com/Aikarubi/nova-manga) | Aplicación web para la gestión de mangas, con búsqueda avanzada y gestión interna. | Symfony, Angular, Docker, MariaDB |
 
