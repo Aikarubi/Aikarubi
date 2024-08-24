@@ -1,15 +1,11 @@
 <div align="center">
-<h1 align="center"> Yo, it's me,  <a href="https://github.com/Aikarubi"> Aikarubi </a> ✌️ </h1>
+<h1 align="center"> Hola, soy  <a href="https://github.com/Aikarubi"> Aikarubi </a> ✌🏻 </h1>
 </div>
 <img src="banner.png">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Aikarubi&color=blueviolet&style=plastic" alt="aikarubi" /> </p>
-
 ## About me
 
-- 💻 Web Application Developer
-- 👩🏼‍💻 Interested in learning new code
-- 🎭 Happy with the frontend and struggling with the backend
+Soy una **Desarrolladora de Aplicaciones Web** apasionada por todo el proceso de creación de proyectos, desde la concepción de ideas hasta su implementación completa. Disfruto tanto del **frontend** 🎨 como del **backend** 🛠️, y me siento realizada al poder trabajar en ambos lados del desarrollo. Me encanta crear interfaces atractivas y funcionales, y, al mismo tiempo, me motiva encontrar soluciones eficaces en el backend. Cada día es una oportunidad para aprender algo nuevo y mejorar mis habilidades como desarrolladora **Full Stack** 🚀.
 
 <br>
 
