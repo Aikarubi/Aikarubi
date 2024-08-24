@@ -9,7 +9,7 @@ Soy una **Desarrolladora de Aplicaciones Web** apasionada por todo el proceso de
 
 <br>
 
-### 🛠️ Languages and Tools
+### 🛠️ Lenguajes y herramientas
 
 <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=e896dd" alt="HTML5"/></a>
 <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=a2d9ce" alt="CSS3"/></a>
