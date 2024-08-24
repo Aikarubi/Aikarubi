@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center"> Yo, it's me,  <a href="https://github.com/Aikarubi"> Aikarubi </a> ✌️ </h1>
 </div>
-<img src="akr.png">
+<img src="banner.png">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Aikarubi&color=blueviolet&style=plastic" alt="aikarubi" /> </p>
 
