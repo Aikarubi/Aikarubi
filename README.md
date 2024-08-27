@@ -43,3 +43,10 @@ Soy una **Desarrolladora de Aplicaciones Web** apasionada por la creación de pr
 | ------------ | ----------- | ------------ |
 | <div align="center">[**Nova Manga**](https://github.com/Aikarubi/nova-manga)</div> | Aplicación web para la gestión de mangas, con búsqueda avanzada y gestión interna. | Symfony, Angular, Docker, MariaDB |
 
+### 👩🏻‍💻 Proyecto en Desarrollo
+
+| Nombre del proyecto | Descripción | Tecnologías |
+| ------------ | ----------- | ------------ |
+| <div align="center">[**Frontend Store**](https://github.com/Aikarubi/FrontendStore)</div> | Página Web sencilla, imitando una tienda de ropa para practicar posicionamiento. | HTML5 y CSS3 |
+
+
