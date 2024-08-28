@@ -47,6 +47,6 @@ Soy una **Desarrolladora de Aplicaciones Web** apasionada por la creación de pr
 
 | Nombre del proyecto | Descripción | Tecnologías |
 | ------------ | ----------- | ------------ |
-| <div align="center">[**Frontend Store**](https://github.com/Aikarubi/FrontendStore)</div> | Página Web sencilla, imitando una tienda de ropa para practicar posicionamiento. | HTML5 y CSS3 |
+| <div align="center">???</div> | ??? | ??? |
 
 
