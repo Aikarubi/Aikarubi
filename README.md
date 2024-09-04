@@ -47,6 +47,6 @@ Soy una **Desarrolladora de Aplicaciones Web** apasionada por la creación de pr
 
 | Nombre del proyecto | Descripción | Tecnologías |
 | ------------ | ----------- | ------------ |
-| <div align="center">[**Blog de Café](https://github.com/Aikarubi/blog-de-cafe)</div> | Página web orientada al diseño de un blog, donde se pone en practica el diseño de layouts totalmente responsive | HTML5, CSS3 |
+| <div align="center">[**Blog de Café**](https://github.com/Aikarubi/blog-de-cafe)</div> | Página web estilo blog, donde se pone en práctica el diseño de layouts responsive | HTML5, CSS3 |
 
 
