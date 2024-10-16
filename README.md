@@ -51,6 +51,5 @@ Echa un vistazo a [**mi Portfolio**](https://portfolio-aikarubi.netlify.app/), d
 | Nombre del proyecto | Descripción | Tecnologías |
 | ------------ | ----------- | ------------ |
 | <div align="center">[**API JDM CARS**](https://github.com/Aikarubi/JDMCars-api)</div> | Creación de mi primera API sobre coches JDM (backend) | Node.js, Express.js, MongoDB |
-| <div align="center">[**Festival de Música**](https://github.com/Aikarubi/festival-de-musica)</div> | Sitio Web que simula un festival de música para practicar JS | HTML5, CSS3-SASS-SCSS, JavaScript |
 
 
