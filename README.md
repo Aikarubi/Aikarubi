@@ -45,11 +45,12 @@ Echa un vistazo a [**mi Portfolio**](https://portfolio-aikarubi.netlify.app/), d
 | Nombre del proyecto | Descripción | Tecnologías |
 | ------------ | ----------- | ------------ |
 | <div align="center">[**Nova Manga**](https://github.com/Aikarubi/nova-manga)</div> | Aplicación web para la gestión de mangas, con búsqueda avanzada y gestión interna. | Symfony, Angular, Docker, MariaDB |
+| <div align="center">[**API JDM CARS**](https://github.com/Aikarubi/JDMCars-api)</div> | API sobre coches JDM, incluye un front con toda la documentación necesaria | Node.js, Express.js, MongoDB, Angular |
 
 ### 👩🏻‍💻 Proyecto en Desarrollo
 
 | Nombre del proyecto | Descripción | Tecnologías |
 | ------------ | ----------- | ------------ |
-| <div align="center">[**API JDM CARS**](https://github.com/Aikarubi/JDMCars-api)</div> | Creación de mi primera API sobre coches JDM (backend) | Node.js, Express.js, MongoDB |
+
 
 
